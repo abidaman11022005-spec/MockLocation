@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mock Location Tester</string>
+    <string name="hint_lat">Latitude</string>
+    <string name="hint_lng">Longitude</string>
+    <string name="btn_go">Go</string>
+    <string name="btn_start">Start mock</string>
+    <string name="btn_stop">Stop mock</string>
+    <string name="btn_dev_options">Open Developer Options</string>
+    <string name="status_ready">Ready. Tap the map or type coordinates, then press Start.</string>
+    <string name="status_running">Mock location is running.</string>
+    <string name="error_bad_coords">Enter a valid latitude (-90 to 90) and longitude (-180 to 180).</string>
+    <string name="error_not_mock_app">This app is not the selected mock location app. Open Developer Options and choose it under "Select mock location app".</string>
+    <string name="channel_name">Mock location</string>
+    <string name="notif_title">Mock location active</string>
+</resources>
